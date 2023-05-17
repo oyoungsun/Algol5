@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algol5.iml" filepath="$PROJECT_DIR$/Algol5.iml" />
       <module fileurl="file://$PROJECT_DIR$/b15596/b15596.iml" filepath="$PROJECT_DIR$/b15596/b15596.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1753/b1753.iml" filepath="$PROJECT_DIR$/b1753/b1753.iml" />
       <module fileurl="file://$PROJECT_DIR$/b4485/b4485.iml" filepath="$PROJECT_DIR$/b4485/b4485.iml" />
     </modules>
   </component>
