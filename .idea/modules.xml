@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algol5.iml" filepath="$PROJECT_DIR$/Algol5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b11660/b11660.iml" filepath="$PROJECT_DIR$/b11660/b11660.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1197/b1197.iml" filepath="$PROJECT_DIR$/b1197/b1197.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b12869/b12869.iml" filepath="$PROJECT_DIR$/b12869/b12869.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b13458/b13458.iml" filepath="$PROJECT_DIR$/b13458/b13458.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b14891/b14891.iml" filepath="$PROJECT_DIR$/b14891/b14891.iml" />
       <module fileurl="file://$PROJECT_DIR$/b15596/b15596.iml" filepath="$PROJECT_DIR$/b15596/b15596.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1562/b1562.iml" filepath="$PROJECT_DIR$/b1562/b1562.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b15686/b15686.iml" filepath="$PROJECT_DIR$/b15686/b15686.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b16918/b16918.iml" filepath="$PROJECT_DIR$/b16918/b16918.iml" />
       <module fileurl="file://$PROJECT_DIR$/b1753/b1753.iml" filepath="$PROJECT_DIR$/b1753/b1753.iml" />
       <module fileurl="file://$PROJECT_DIR$/b4485/b4485.iml" filepath="$PROJECT_DIR$/b4485/b4485.iml" />
     </modules>
