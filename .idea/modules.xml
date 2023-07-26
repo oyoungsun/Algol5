@@ -3,17 +3,38 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algol5.iml" filepath="$PROJECT_DIR$/Algol5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1138/b1138.iml" filepath="$PROJECT_DIR$/b1138/b1138.iml" />
       <module fileurl="file://$PROJECT_DIR$/b11660/b11660.iml" filepath="$PROJECT_DIR$/b11660/b11660.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b11729/b11729.iml" filepath="$PROJECT_DIR$/b11729/b11729.iml" />
       <module fileurl="file://$PROJECT_DIR$/b1197/b1197.iml" filepath="$PROJECT_DIR$/b1197/b1197.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b12015/b12015.iml" filepath="$PROJECT_DIR$/b12015/b12015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1238/b1238.iml" filepath="$PROJECT_DIR$/b1238/b1238.iml" />
       <module fileurl="file://$PROJECT_DIR$/b12869/b12869.iml" filepath="$PROJECT_DIR$/b12869/b12869.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1300/b1300.iml" filepath="$PROJECT_DIR$/b1300/b1300.iml" />
       <module fileurl="file://$PROJECT_DIR$/b13458/b13458.iml" filepath="$PROJECT_DIR$/b13458/b13458.iml" />
       <module fileurl="file://$PROJECT_DIR$/b14891/b14891.iml" filepath="$PROJECT_DIR$/b14891/b14891.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b14939/b14939.iml" filepath="$PROJECT_DIR$/b14939/b14939.iml" />
       <module fileurl="file://$PROJECT_DIR$/b15596/b15596.iml" filepath="$PROJECT_DIR$/b15596/b15596.iml" />
       <module fileurl="file://$PROJECT_DIR$/b1562/b1562.iml" filepath="$PROJECT_DIR$/b1562/b1562.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b15683/b15683.iml" filepath="$PROJECT_DIR$/b15683/b15683.iml" />
       <module fileurl="file://$PROJECT_DIR$/b15686/b15686.iml" filepath="$PROJECT_DIR$/b15686/b15686.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b16235/b16235.iml" filepath="$PROJECT_DIR$/b16235/b16235.iml" />
       <module fileurl="file://$PROJECT_DIR$/b16918/b16918.iml" filepath="$PROJECT_DIR$/b16918/b16918.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b16938/b16938.iml" filepath="$PROJECT_DIR$/b16938/b16938.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b17144/b17144.iml" filepath="$PROJECT_DIR$/b17144/b17144.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1715/b1715.iml" filepath="$PROJECT_DIR$/b1715/b1715.iml" />
       <module fileurl="file://$PROJECT_DIR$/b1753/b1753.iml" filepath="$PROJECT_DIR$/b1753/b1753.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1914/b1914.iml" filepath="$PROJECT_DIR$/b1914/b1914.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b1922/b1922.iml" filepath="$PROJECT_DIR$/b1922/b1922.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b19236/b19236.iml" filepath="$PROJECT_DIR$/b19236/b19236.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2410/b2410.iml" filepath="$PROJECT_DIR$/b2410/b2410.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2470/b2470.iml" filepath="$PROJECT_DIR$/b2470/b2470.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b2580/b2580.iml" filepath="$PROJECT_DIR$/b2580/b2580.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b4386/b4386.iml" filepath="$PROJECT_DIR$/b4386/b4386.iml" />
       <module fileurl="file://$PROJECT_DIR$/b4485/b4485.iml" filepath="$PROJECT_DIR$/b4485/b4485.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b5373/b5373.iml" filepath="$PROJECT_DIR$/b5373/b5373.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b9048/b9048.iml" filepath="$PROJECT_DIR$/b9048/b9048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b9527/b9527.iml" filepath="$PROJECT_DIR$/b9527/b9527.iml" />
     </modules>
   </component>
 </project>
