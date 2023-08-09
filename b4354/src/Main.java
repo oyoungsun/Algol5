@@ -19,7 +19,7 @@ public class Main {
 //            }
 //            System.out.println();
                 if(i%(i - p[i - 1])!=0){
-                    //7%(7-6) = 0
+                    //7%(7-6) = 1
                     System.out.println(1);
                 }else {
                     System.out.println(i / (i - p[i - 1]));
